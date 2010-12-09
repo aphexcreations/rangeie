@@ -7,10 +7,12 @@ JavaScript Range/Selection implementation for Internet Explorer
 * *Homepage: https://github.com/last/rangeie/*
 * *Sponsored By: [Last.vc](http://last.vc)*
 
+Relevant Links
+--------------
+
 * [Mozilla Range documentation](https://developer.mozilla.org/en/DOM/range)
 * [Mozilla Selection documentation](https://developer.mozilla.org/en/DOM/Selection)
 * [W3C DOM Range documentation](http://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html)
-
 
 Background
 ----------
